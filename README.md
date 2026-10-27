@@ -56,3 +56,5 @@ x_{i,j}^{t+1} = \frac{1}{2} \left( x_{i,j}^t + x_{i-1,j}^t \right)
 $$
 
 ---
+<img width="1154" height="745" alt="image" src="https://github.com/user-attachments/assets/d1610b14-c9bb-4696-a5d5-05c153223d2b" />
+
